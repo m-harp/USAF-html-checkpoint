@@ -1,0 +1,47 @@
+.header {
+    padding: 10px;
+    display: inline;
+    text-align: center;
+    background: #353a40;
+    color: grey;
+    font-size: 20px;
+    overflow: hidden;
+    background-color: #353a40;
+  }
+  #search {
+    float: right;
+    padding: 10px;
+    display: list-item;
+    text-align: center;
+    background: #353a40;
+    color: grey;
+    font-size: 20px;
+    background-color: #353a40;
+  }
+  .footer {
+    padding: 10px;
+    display: inline;
+    text-align: center;
+    background: #353a40;
+    color: grey;
+    font-size: 20px;
+    overflow: hidden;
+    background-color: #353a40;
+    
+  }
+
+  .topnav a {
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .login {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+  }
